@@ -1,6 +1,4 @@
-Here's a sample GitHub README for your project **WaveX**:
 
----
 
 # WaveX
 
